@@ -1,11 +1,11 @@
-**Aures:**
+**Autores:**
 
 * Rossana Ilardo
 * Rafael Valerato
 
 ---
 
-## 🛠️ Requisitos Previos
+##  Requisitos Previos
 
 Para ejecutar este laboratorio, necesitarás tener instaladas las siguientes herramientas:
 
@@ -14,7 +14,7 @@ Para ejecutar este laboratorio, necesitarás tener instaladas las siguientes her
 
 ---
 
-## 💻 Instalación y Uso
+##  Instalación y Uso
 
 Sigue estos pasos para configurar el entorno:
 
@@ -29,7 +29,7 @@ Sigue estos pasos para configurar el entorno:
 
 ---
 
-## 🕹️ Controles de Navegación
+##  Controles de Navegación
 
 Una vez que el sistema solar se cargue en tu navegador de confianza, utiliza las siguientes teclas para navegar por el espacio:
 
@@ -44,7 +44,7 @@ Una vez que el sistema solar se cargue en tu navegador de confianza, utiliza las
 
 ---
 
-## 🚀 Resultado Esperado
+##  Resultado Esperado
 
 Al seguir las instrucciones, se abrirá automáticamente una ventana en tu navegador donde podrás observar el comportamiento y la estética del sistema solar en un entorno 3D/interactivo.
 
